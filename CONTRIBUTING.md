@@ -1,12 +1,12 @@
 # How to contribute my source code
-This document describes the composition and operation of the hit-1163710211 team, what benefits your submitted code will bring to the hit-1163710211 project, and how we can join us.
+This document describes the composition and operation of the hit-1163710220 team, what benefits your submitted code will bring to the hit-1163710220 project, and how we can join us.
 # Contributing code via Github
-ThinkPHP currently uses Git to control the version of the program. If you want to contribute source code to hit-1163710211, first get an idea of how to use Git. We currently host the project on GitHub, and any GitHub user can contribute code to us.
+ThinkPHP currently uses Git to control the version of the program. If you want to contribute source code to hit-1163710220, first get an idea of how to use Git. We currently host the project on GitHub, and any GitHub user can contribute code to us.
 
-The way to participate is very simple, `fork` a hit-1163710211 code into your warehouse, modify it and submit it, and send us a `pull request`, we will review the code and process your application in time. After the review, your code will be `merge`d into our repository, so you will automatically appear on the contributor list, very convenient.
+The way to participate is very simple, `fork` a hit-1163710220 code into your warehouse, modify it and submit it, and send us a `pull request`, we will review the code and process your application in time. After the review, your code will be `merge`d into our repository, so you will automatically appear on the contributor list, very convenient.
 
 We hope that the code you contributed will be:
-+ hit-1163710211 coding specification
++ hit-1163710220 coding specification
 + Appropriate comments that others can read
 + Follow the Apache2 open source protocol
 
@@ -53,4 +53,4 @@ Never use `git push -f` to force push changes to the upstream
 
 # Development environment
 + jdk：1.7/1.8 
-+ eclipse 
++ eclipse
